@@ -1,0 +1,156 @@
+{ "dashboard":{
+        "posts": 254,
+        "liks": 123,
+        "followrs": 2315,
+        "following": 3332,
+        "users": [ 
+            {
+                "name1": "Ahmed ",
+                "name2":" Mohamed ",
+                "name3": "Saied",
+                "name4":" Omar "
+            },
+            {
+                "name1": "Walied ",
+                "name2":" Saied",
+                "name3": "Ibrahim",
+                "name4":" Abouenen "
+            }
+        ]
+    },
+    "news" :[
+        {
+            "id": 1,
+            "Name": "Eman Alaa Ahmed",
+            "Email" :"Sincere@april.biz",
+            "Website":"hildegard.org",
+            "category": "sports",
+            "descrpitation":"descrpitation 01"
+        },
+        {
+            "id": 2,
+            "Name": "Gamil Mohamed",
+            "Email" :"ahmed@april.biz",
+            "Website":"hildegard.org",
+            "category": "politics",
+            "descrpitation" : "descrpitation 02"
+        },
+        {
+            "id": 3,
+            "Name": "Mohamed Khaled",
+            "Email" :"mohamede@april.biz",
+            "Website":"mohamed23.org",
+            "category": "sports",
+            "descrpitation": "descrpitation 03"
+        },
+        {
+            "id": 4,
+            "Name": "Walied Elwainch",
+            "Email" :"Walied@april.biz",
+            "Website":"wailed2.org",
+            "category": "politics",
+            "descrpitation":"descrpitation 04"
+        }
+
+    ],
+    "products": [
+        {
+            "id": 1,
+            "title": "Product 1",
+            "price": 8600,
+            "Descration": "FIrst product of My List new "
+        },
+        {
+            "id": 2,
+            "title": "Product 2",
+            "price": 5300,
+            "Descration": "Second product of My List new "
+        },
+        {
+            "id": 3,
+            "title": "Product 3",
+            "price": 4300,
+            "Descration": "FIrst product of My List new "
+        },
+        {
+            "id": 4,
+            "title": "Product 4",
+            "price": 7400,
+            "Descration": "FIrst product of My List new "
+        }
+    ],
+    "events": [
+        {
+            "ID": 1,
+            "Name": "Leanne Graham",
+            "Email" :"Sincere@april.biz",
+            "Website" :"hildegard.org",
+            "categary": "sport"
+        },
+        {
+            "ID": 2,
+            "Name": "khild sayed",
+            "Email" :"khildsayed232@april.biz",
+            "Website" :"khild.org",
+            "categary": "technology"
+        },
+        {
+            "ID": 3,
+            "Name": "Fady gallal",
+            "Email" :"fadymoalle@april.biz",
+            "Website" :"moalfady.org",
+            "categary": "food"
+        },
+        {
+            "ID": 4,
+            "Name": "Sayian Marady",
+            "Email" :"satianmarady@april.biz",
+            "Website" :"welcomesayian.org",
+            "categary": "art"
+        },
+        {
+            "ID": 5,
+            "Name": "Ahmed Mohamed",
+            "Email" :"AhmedMOhamede@april.biz",
+            "Website" :"mohamed.org",
+            "categary": "sport"
+        },
+        {
+            "ID": 6,
+            "Name": "Samy omar",
+            "Email" :"AhmedMOhamede@april.biz",
+            "Website" :"mohamed.org",
+            "categary": "food"
+        },
+        {
+            "ID": 7,
+            "Name": "Noor Ahmed",
+            "Email" :"NoorAhmed@april.biz",
+            "Website" :"Noor.org",
+            "categary": "art"
+        },
+        {
+            "ID": 8,
+            "Name": "Nada fahme",
+            "Email" :"Nadafahmy@april.biz",
+            "Website" :"mohamed.org",
+            "categary": "sport"
+        },
+        {
+            "ID": 9,
+            "Name": "abber Gabar",
+            "Email" :"abber@april.biz",
+            "Website" :"mohamed.org",
+            "categary": "technology"
+        },
+        {
+            "ID": 10,
+            "Name": "kanzy Mohamed",
+            "Email" :"kanzymohamed@april.biz",
+            "Website" :"mohamed.org",
+            "categary": "technology"
+        }
+    ]
+}
+
+
