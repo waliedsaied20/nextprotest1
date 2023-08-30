@@ -3,8 +3,11 @@ import Link from "next/link";
 
 function HomePage() {
   return (
+    // Edit wit rightbranch
     <>
    <Head>
+    
+    <title>this box with branch rightbranch</title>
           <title>Welcome ! render</title>
           <link rel="icon" type="image/png" href="homeicon.png"/>
       </Head>
