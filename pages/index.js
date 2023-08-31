@@ -7,11 +7,11 @@ function HomePage() {
     <>
    <Head>
     
-    <title>this box with branch rightbranch</title>
           <title>Welcome ! render</title>
           <link rel="icon" type="image/png" href="homeicon.png"/>
       </Head>
       <div>
+        <h2>Welcome T o fFix Page Again <span className="text-red-500 border p-2 bg-gray-400 rounded-full"> Here</span></h2>
         <h1>  Welcome ! back to Home Page</h1>
         <hr />
         <Link href='/users'>
