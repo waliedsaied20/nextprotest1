@@ -9,7 +9,7 @@ function HomePage() {
     <>
    <Head>
     <title>Edit Page with Left branch</title>
-          <title>Welcome ! render</title>
+          <title>Welcome ! render 1 </title>
           <link rel="icon" type="image/png" href="homeicon.png"/>
       </Head>
       <div>
