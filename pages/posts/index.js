@@ -9,18 +9,19 @@ import getImage5 from '../../public/pexels-tom.jpg'
 
 function Posts() {
     const  getImages = [
-        {img: getImage , title: 'Phone1'  },
-        {img: getImage1 , title: 'Phone2'  },
-        {img: getImage2 , title: 'Phone3'  },
-        {img: getImage3 , title: 'Phone4' },
-        {img: getImage4 , title: 'Phone5'  },
-        {img: getImage5  , title: 'Phone6 '},
+        {id: 1,img: getImage , title: 'Phone1'  },
+        {id: 2,img: getImage1 , title: 'Phone2'  },
+        {id: 3,img: getImage2 , title: 'Phone3'  },
+        {id: 4,img: getImage3 , title: 'Phone4' },
+        {id: 5,img: getImage4 , title: 'Phone5'  },
+        {id: 6,img: getImage5  , title: 'Phone6 '},
 ]
     const renderImage = getImages.map((image) => {
         return (
-            <Image src={image.img} alt={image.title} className="rounded-xl hover:-translate-x-4 hover:-translate-y-4 hover:scale-105 duration-200 hover:cursor-pointer"/>
+            <Image onClick={() => alert(`Welcome Id ${String(image.id)}`)} src={image.img} alt={image.title} className="rounded-xl hover:-translate-x-4 hover:-translate-y-4 hover:scale-105 duration-200 hover:cursor-pointer"/>
         )
     })
+   
     return (
         <section >
         <h1 className="text-3xl selection:bg-white font-bold text-yellow-900 outline-blue-700 outline w-fit mx-auto my-3 p-2 rounded-xl border-gray-400 border-4 hover:border-red-500 hover:bg-red-600 hover:text-white ease-in-out">Posts page is working</h1>
