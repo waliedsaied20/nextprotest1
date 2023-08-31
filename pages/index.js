@@ -1,6 +1,8 @@
 import Head from "next/head";
 import Link from "next/link";
 
+
+// Edit left Branch
 function HomePage() {
   return (
     // Edit page with Leftbranch
