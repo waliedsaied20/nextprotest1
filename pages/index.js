@@ -2,7 +2,7 @@ import Head from "next/head";
 import Link from "next/link";
 
 
-// Edit Master Brnach
+// Edit Right Branch
 function HomePage() {
   return (
     // Edit wit rightbranch
