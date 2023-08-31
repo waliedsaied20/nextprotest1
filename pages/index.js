@@ -17,6 +17,8 @@ function HomePage() {
         <Link href='/users'>
           Users
         </Link>
+        <hr />
+        <p> lorem ipsum ahmed mohamed saied ibrahim walied hassan  </p>
       </div>
     </>
   )
